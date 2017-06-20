@@ -1,0 +1,16 @@
+
+https://pymotw.com/2/socket/tcp.html
+
+or
+
+https://gist.github.com/Integralist/3f004c3594bbf8431c15ed6db15809ae
+
+
+UDP: https://github.com/Marthevin/python-socket-udp-server-client-example/tree/master/src
+
+or
+
+https://stackoverflow.com/questions/27893804/udp-client-server-socket-in-python
+
+
+ 
